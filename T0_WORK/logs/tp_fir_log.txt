@@ -1,0 +1,1 @@
+{'table_id': 'TP_FIR_Q30', 'entry_count': 48, 'bytes': 384, 'sha256': '4fd922e97c8a656f20bb5e069f6c00917a4bd845cd7e71c71aed066fd5625270', 'mismatches_vs_companion_block': 0, 'structural_invariants': 'PASS', 'source_sha256': '0935e97d0b2efd5fdb77826430e9dc161833b9c916585547d0d910b3cda37424', 'source_size': 789}

@@ -1,0 +1,1 @@
+{'table_id': 'ICDF_Q24', 'entry_count': 65536, 'bytes': 524288, 'sha256': '75b753a89215dd07b6f1804cc7b3668ffb07cadb52488a5e2d7004208efd3665', 'evaluator_disagreements': 0, 'monotonic_nondecreasing': True, 'elapsed_sec': 453.16}

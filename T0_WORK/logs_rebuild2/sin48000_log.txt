@@ -1,0 +1,1 @@
+{'table_id': 'SIN48000_Q30', 'entry_count': 48000, 'bytes': 384000, 'sha256': '4708579df63bb4b09da20c9883d6c1bbfe9701e93908fcc820a6ec33badacfd7', 'evaluator_disagreements': 0, 'anchors_ok': True, 'elapsed_sec': 19.91}

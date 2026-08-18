@@ -1,0 +1,1 @@
+{'table_id': 'PINK_V1', 'entry_count': 15, 'explicit_zero_count': 6, 'bytes': 120, 'sha256': '990ae00b429e6ef7256fa1a75b51001b2554891adeee02466babbcb092a6e32c'}
